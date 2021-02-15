@@ -1,0 +1,44 @@
+.margin {
+  margin: 60px;
+}
+
+.title-home {
+  font-size: 25px;
+  text-decoration: underline solid firebrick;
+  text-transform: uppercase;
+  color: rgb(184, 47, 47);
+}
+
+.flex-wrap-around {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.intro {
+  padding-top: 50px;
+  width: 400px;
+  font-size: 18px;
+  text-align: justify;
+}
+.horoscope-year {
+  width: 400px;
+  font-size: 18px;
+  text-align: justify;
+}
+.test {
+  font-size: 18px;
+}
+
+.img-home {
+  width: 340px;
+}
+
+span {
+  color: red;
+}
+
+.button-link {
+  background-color: rgb(157, 14, 14);
+  padding: 10px;
+}

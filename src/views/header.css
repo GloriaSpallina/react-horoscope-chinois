@@ -1,0 +1,21 @@
+.header {
+  position: fixed;
+  width: 100vw;
+  background-color: black;
+  color: white;
+  height: 50px;
+  position: fixed;
+  line-height: 50px;
+  font-size: 20px;
+  padding-left: 20px;
+  top: 0;
+}
+
+.link-home {
+  border-right: solid white 1px;
+  width: 50px;
+}
+
+.link {
+  padding: 20px;
+}

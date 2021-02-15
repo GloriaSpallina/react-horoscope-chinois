@@ -1,0 +1,13 @@
+.modal-overlay {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.66);
+}
+.modal-overlay .modal {
+  transform: translate(-50%, -50%);
+  border: 2px rgba(255, 255, 255, 0.775) solid;
+  width: 340px;
+}
